@@ -1,2 +1,2 @@
-# ThinkStats
-Learn Statistics with ThinkStats2
+# Statistics
+Learning Statistics with ThinkStats2
